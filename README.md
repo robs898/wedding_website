@@ -7,7 +7,7 @@ Basic template for a wedding website.
 1. Fill out with some images and your names etc.
 2. Use github pages to host (this will be public!) or do it yourself.
 
-## Selfhosting
+## Webserver
 
 1. Get a VM that can reach the internet (e.g. AWS/GCP/Azure/DigitalOcean)
 2. Ensure port 80 is accessible from internet.
